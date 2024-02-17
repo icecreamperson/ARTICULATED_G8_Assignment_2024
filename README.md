@@ -3,7 +3,7 @@ This repository is dedicated to Group 8, Robotics 02
 
 Spherical manipulators are fascinating machines that can move and manipulate objects within a spherical region. Its modern variants offer distinct advantages over their predecessors, expanding their capabilities and potential applications, such as Stewart platforms, which use six independently actuated linear actuators arranged in a hexapod configuration; cable-driven robots, which use cables instead of rigid links and offer a larger workspace, lighter weight, and inherent compliance; and parallel manipulators with spherical workspace, which combine features of different manipulator types to achieve a spherical workspace.
 
-Because of their unique characteristics, modern spherical manipulators have several applications.
+Because of their unique characteristics, modern spherical manipulators have several applications:
 
 a.	Industrial uses include delicate assembly activities in limited places, manipulating things within pipelines or tanks, and welding or painting tasks in complex geometries. 
 
@@ -18,6 +18,8 @@ These manipulators have several advantages over traditional manipulators, includ
 ![427725581_184870088053413_6755018438270918205_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/c16b272e-67ce-487e-8244-95a8301615a0)
 
 The SCARA PRR variant, also known as the Prismatic-Revolute-Revolute SCARA robot, is a Selective Compliance Articulated Robot Arm (SCARA) with a unique joint design. SCARA robots are popular due to their high speed, precision, and compact size, making them excellent for activities such as pick-and-place and assembly in a variety of sectors. The Prismatic-Revolute-Revolute (PRR) variation explains the robot arm's joint type sequence. As a result, a SCARA PRR robot has a linear joint at its base and two rotational joints in its arm. This arrangement has certain distinct advantages and applications when compared to the more popular Revolute-Revolute-Prismatic (RRP) SCARA variation.
+
+The PRR variation stands out because it can raise enormous weights. This is due to the PRR's fixed base, which allows for powerful motors in the prismatic joint, allowing it to carry heavier objects than the RRP type, which lifts both the arm and the object. It also features a wider workspace due to the prismatic joint, which gives extra vertical reach, hence expanding the robot's useful workspace when compared to the RRP version. In addition, it offers complex route planning, making it better suited for applications that require complex path planning in the vertical direction, such as stacking or dispensing liquids. Lastly, these robots are commonly utilized in industries such as electronics assembly, semiconductor manufacturing, and food processing, where they execute functions such as component placement, material handling, and dispensing.
 
 ![428166644_1104749920710549_7720098427658942879_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/7d015d49-ee87-4c05-b936-67a824e35121)
 ![428155586_725853979672492_761391401439360709_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/9faf9872-5bf1-41a9-b6f0-81aea7ee939e)
