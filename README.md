@@ -27,4 +27,6 @@ A Cartesian manipulator on a ceiling, also known as a ceiling-mounted robot, is 
 
 This type of manipulator is useful because ceiling-mounted robots save valuable floor space, which can be critical in busy manufacturing plants. They can also access locations that are difficult or dangerous for humans to reach, improving safety and efficiency. Also, their above-mentioned location allows them to effectively cover broad workspaces, making them ideal for jobs such as painting massive objects or checking large areas. Lastly, they provide great precision and repeatability due to their stiff structure and regulated movements along linear axes.
 
+Overall, ceiling-mounted manipulators are an excellent choice for applications where overhead space is available and effective movement in all three dimensions is required. They are especially vital in industries like automotive, aerospace, and manufacturing, where huge work areas, precision, and safety are critical.
+
 ![428155586_725853979672492_761391401439360709_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/9faf9872-5bf1-41a9-b6f0-81aea7ee939e)
