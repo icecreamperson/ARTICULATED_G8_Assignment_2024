@@ -13,6 +13,8 @@ c.	Service applications include search and rescue missions, underwater research,
 
 d.	Entertainment and education include interactive robotic exhibitions, immersive virtual reality experiences, and advanced simulator motion platforms.
 
+These manipulators have several advantages over traditional manipulators, including a larger and more dexterous workspace that allows for access and manipulation in confined or complex environments, high precision and control that allows for delicate tasks and accurate operations, a lightweight and adaptable design that allows for deployment in a variety of applications, and the potential for modularity and scalability that allows for customization for specific requirements. Modern versions overcome the constraints of older designs, making them more efficient, dependable, and cost-effective. This opens the door to even greater adoption and novel applications in the future.
+
 ![427725581_184870088053413_6755018438270918205_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/c16b272e-67ce-487e-8244-95a8301615a0)
 ![428166644_1104749920710549_7720098427658942879_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/7d015d49-ee87-4c05-b936-67a824e35121)
 ![428155586_725853979672492_761391401439360709_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/9faf9872-5bf1-41a9-b6f0-81aea7ee939e)
