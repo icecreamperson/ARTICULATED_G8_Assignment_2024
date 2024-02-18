@@ -28,4 +28,6 @@ Below is the kinematic diagram and the D-H parametric table of the Cartesian Man
 ![428155586_725853979672492_761391401439360709_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/9faf9872-5bf1-41a9-b6f0-81aea7ee939e)
 
 # GROUP MEMBERS:
-Abeleda, Dannielle Louis F. ([icecreamperson](https://github.com/icecreamperson))
+* Abeleda, Dannielle Louis F. ([icecreamperson](https://github.com/icecreamperson))
+* Adoptante, Caine Jeneah U. ([sopkeyn](https://github.com/sopkeyn))
+
