@@ -35,3 +35,7 @@ Below is the kinematic diagram and the D-H parametric table of the Cartesian Man
 * Project Supervisor:
 
   Dimaano, Kian Michael G. ([KMTechies](https://github.com/KMTechies))
+
+* Project Quality:
+
+  Echaluce, Emanuel B. ([Emanskiee](https://github.com/Emanskiee))
