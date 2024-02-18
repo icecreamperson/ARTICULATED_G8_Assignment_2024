@@ -32,3 +32,6 @@ Below is the kinematic diagram and the D-H parametric table of the Cartesian Man
   
   Adoptante, Caine Jeneah U. ([sopkeyn](https://github.com/sopkeyn))
 
+* Project Supervisor:
+
+  Dimaano, Kian Michael G. ([KMTechies](https://github.com/KMTechies))
