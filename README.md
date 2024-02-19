@@ -12,7 +12,10 @@ Below is the kinematic diagram and the D-H parametric table of the Spherical Man
 
 # [SCARA MANIPULATOR](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/tree/main/Forward%20Kinematics/SCARA-VARIANT)
 
-The SCARA PRR robot, a variation of the Selective Compliance Articulated Robot Arm with a unique joint design, is known for its speed, precision, and compact size ideal for pick-and-place and assembly tasks. 
+The SCARA PRR robot, a variation of the Selective Compliance Articulated Robot Arm with a unique joint design, is known for its speed, precision, and compact size ideal for pick-and-place and assembly tasks.
+
+![image](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/bc4b4277-e64d-4bb3-80be-ae2cdd6871ad)
+
 
 Below is the kinematic diagram and the D-H parametric table of the SCARA Manipulator PRR Variant.
 
