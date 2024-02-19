@@ -22,6 +22,8 @@ Below is the kinematic diagram and the D-H parametric table of the SCARA Manipul
 
 Cartesian manipulator on a ceiling, known as a ceiling-mounted robot, is a robotic arm with three linear axes (X, Y, Z) that operates from above.
 
+![image](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/40f68fa6-756d-4cc2-bc1e-0d5f06ec1853)
+
 
 Below is the kinematic diagram and the D-H parametric table of the Cartesian Manipulator on a ceiling.
 
