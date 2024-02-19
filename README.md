@@ -6,6 +6,9 @@ This repository is dedicated to Group 8, Robotics 02
 
 Spherical manipulators are intriguing machines capable of moving and manipulating objects within a spherical workspace. 
 
+![image](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/1d7f6d6a-b2c9-4918-9f60-f6101cfeac50)
+
+
 Below is the kinematic diagram and the D-H parametric table of the Spherical Manipulator Modern Variant.
 
 ![427725581_184870088053413_6755018438270918205_n](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/assets/157558526/c16b272e-67ce-487e-8244-95a8301615a0)
