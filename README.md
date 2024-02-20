@@ -1,6 +1,6 @@
 # ARTICULATED_G8_Assignment_2024
 
-Hereby, this repository is dedicated to Group 8 in Robotics 02
+This repository is dedicated to Group 8 in Robotics 02
 
 # [SPHERICAL MANIPULATOR](https://github.com/icecreamperson/ARTICULATED_G8_Assignment_2024/tree/main/Forward%20Kinematics/SPHERICAL-MODERN)
 
