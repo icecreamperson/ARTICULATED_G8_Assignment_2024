@@ -48,6 +48,6 @@ Below is the kinematic diagram and the D-H Parametric Table of the Cartesian Man
 
   Echaluce, Emanuel B. ([Emanskiee](https://github.com/Emanskiee))
 
-* Programmer:
+* Project Programmer:
 
   Abeleda, Dannielle Louis F. ([icecreamperson](https://github.com/icecreamperson))
